@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6cf8d160ab9b5b4aa2894dbaebb9bee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterMaterial: {fileID: 2100000, guid: 7a9335250e0dece4f86a2a00c83652af, type: 2}
+  - acidMaterial: {fileID: 2100000, guid: ab4f6176aa056de429ad7b4b9c663a27, type: 2}
+  - lavaMaterial: {fileID: 2100000, guid: b0952764b883a4649b6a40c7a07d0a72, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
