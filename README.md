@@ -1,0 +1,1 @@
+This is a project I made for a course I took, contains the essence of my coding through trial and learning. Open-sourced so that anyone can adapt and continue it on their own. Credit me if you plan to use some things from it.
